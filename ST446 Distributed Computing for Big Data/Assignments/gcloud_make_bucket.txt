@@ -1,0 +1,1 @@
+gsutil mb -l europe-west2 -p st446-lse-2021 gs://st446-mybucket
